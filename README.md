@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [site](https://site)
+-   Live Site URL: [Netlify](https://fm-task2.netlify.app/)
 
 ## My process
 
